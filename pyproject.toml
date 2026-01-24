@@ -1,0 +1,16 @@
+[project]
+name = "rag based tutor"
+version = "0.1.0"
+description = "A curriculum-aware AI tutor for Moroccan education"
+authors = [
+    {name = "ABDELLAH EL BOUCHOUARI"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
