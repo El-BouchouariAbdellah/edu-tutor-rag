@@ -1,0 +1,35 @@
+Les différentes sortes de compléments
+Dans une phrase, en plus du sujet et du verbe, il y a des groupes de mots qui donnent des
+renseignements, qui complètent la phrase. Ce sont les compléments.
+1. «< Cela, ce...que, quoi ? >> (DIRECT)
+S V C direct
+Je mange ma tartine.
+2. «< à qui ? à quoi ? de qui, de quoi ? » (INDIRECT)
+S
+v C direct C indirect
+Je mange la tartine au beurre.
+3. «< Là, où... >> (LIEU)
+S V C direct
+C de lieu
+Je mange ma tartine dans la cuisine.
+4. «< quand >> (TEMPS)
+C temps
+S V C direct
+C de lieu
+Chaque matin, je mange ma tartine dans la cuisine.
+5. << ainsi, comment >> (MANIERE)
+C temps
+C lieu
+S V
+C direct C manière
+Chaque matin, dans la cuisine, je mange ma tartine avec appétit.
+6. «< pourquoi, parce..que »> (CAUSE)
+S
+V
+C cause
+Je mange parce que je suis affamé.
+7. «< dans quel but >>
+(BUT)
+S V C direct
+C but
+Je mange ma tartine pour grossir.

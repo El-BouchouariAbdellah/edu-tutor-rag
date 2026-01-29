@@ -1,0 +1,25 @@
+LE NOM
+Un nom est un mot qui désigne une personne, un animal, une chose, un endroit,
+un sentiment, une sensation...
+◆ Un nom commun désigne une personne, un animal, une chose, un
+endroit, un sentiment, une sensation en général :
+une fille, un chat, une trousse, une maison, la peur, le froid
+◆ Un nom propre (ou un prénom) désigne une personne, un animal, une
+chose, un endroit en particulier :
+Nom d'une personne: madame Dupont est le nom d'une personne bien précise
+(ce n'est pas le nom de toutes les personnes du monde)
+Prénom d'une personne: Marie est le prénom d'une personne bien précise (ce
+n'est pas le prénom de toutes les filles du monde)
+Prénom d'un animal: Mickey est le prénom d'un chat bien précis (ce n'est pas le
+prénom de tous les chats du monde)
+Nom d'un pays : la France est le nom d'un pays bien précis (ce n'est pas le nom de
+tous les pays du monde)
+Nom d'une ville: Paris est le nom d'une ville bien précise (ce n'est pas le nom de
+toutes les villes du monde)
+Nom d'un monument: la Tour Eiffel est le nom d'un monument bien précis (ce
+n'est pas le nom de tous les monuments du monde)
+Nom d'une rue : la rue des Bruyères est le nom d'une rue bien précise (ce n'est
+pas le nom de toutes les rues du monde)
+Tous les noms propres commencent par une lettre majuscule.
+Attention: tous les noms qui commencent par une majuscule ne sont pas des
+noms propres !

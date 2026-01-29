@@ -1,0 +1,6 @@
+LES NOMS EN [U]
+Les noms en [U] se terminent par U quand ils sont masculins et par UE quand ils sont
+féminins sauf les noms féminins suivants, la tribu, la vertu, la glu et la bru.
+Exemple : Le zébu est élevé dans le village de la tribu des Masaïs. Il sert à
+tirer la charrue.
+exception

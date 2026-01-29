@@ -1,5 +1,5 @@
 [project]
-name = "rag based tutor"
+name = "rag_based_tutor"
 version = "0.1.0"
 description = "A curriculum-aware AI tutor for Moroccan education"
 authors = [

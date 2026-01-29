@@ -1,0 +1,29 @@
+LA PHRASE
+Une phrase est un groupe de mots. L'ordre des mots est important: la phrase doit
+avoir un sens.
+Chat fenêtre la le par regarde.
+Cette suite de mots ne veut rien dire : elle n'a pas de sens. Ce n'est pas une
+phrase.
+Le chat regarde par la fenêtre.
+Cette suite de mots veut dire quelque chose: elle a un sens. C'est donc une
+phrase.
+Une phrase commence par une lettre majuscule et se termine par un point.
+Le point d'interrogation
+indique que la phrase est une question.
+Comment allez-vous ?
+Le point d'exclamation (!) marque la joie, la surprise, la colère ou bien donne un
+ordre ou indique un détail important.
+Je suis heureux !
+Quelle bonne surprise!
+Je suis très fâché !
+Arrête de bavarder!
+Attention à la marche !
+Les points de suspension (...) donnent une idée de mystère ou indique que la
+phrase n'est pas terminée.
+Soudain, j'ai entendu un grand bruit ...
+J'ai ouvert la porte et ...
+Attention: il ne faut pas confondre une phrase et une ligne. Une phrase peut être
+écrite sur plusieurs lignes si elle est très longue.
+Pendant les vacances, je me suis beaucoup baigné, j'ai fait des châteaux de
+sable avec mes cousins et je suis même allé pêcher un jour avec mon oncle
+Jacques.

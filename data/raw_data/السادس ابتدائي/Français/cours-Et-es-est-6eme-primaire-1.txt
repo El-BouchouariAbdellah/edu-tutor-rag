@@ -1,0 +1,11 @@
+Et - es - est
+Andrée Otte
+Romane est curieuse. (Romane était curieuse)
+Tu es un adorable gamin. (Tu étais un adorable gamin)
+Cinq et deux font sept.
+Cinq et puis deux font sept.
+Cinq et aussi deux font sept.
+Cinq et encore deux font sept.
+J'écris << est »> quand je peux le remplacer par était accompagné de «< il ou elle >>
+«<es » quand je peux le remplacer par «< étais »> accompagné de << tu >>
+«<et » dans les autres cas, c'est un mot lien.

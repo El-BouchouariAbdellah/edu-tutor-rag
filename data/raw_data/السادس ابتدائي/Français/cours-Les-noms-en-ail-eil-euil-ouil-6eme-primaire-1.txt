@@ -1,0 +1,8 @@
+LES NOMS EN AIL, EIL, EUIL, QUIL
+Les noms masculins en [AIL, EIL, EUIL, OUIL] se terminent par AIL, EIL, EUIL,
+OUIL sauf les mots portefeuille, millefeuille et chèvrefeuille.
+Attention aux mots écueil, recueil et cercueil.
+Exemple : L'éventail est posé sur le fauteuil.
+Les noms féminins [AIL, EIL, EUIL, OUIL] se terminent par AILLE, EILLE,
+EUILLE, OUILLE.
+Exemple: La grenouille et l'abeille ne font pas de bataille.

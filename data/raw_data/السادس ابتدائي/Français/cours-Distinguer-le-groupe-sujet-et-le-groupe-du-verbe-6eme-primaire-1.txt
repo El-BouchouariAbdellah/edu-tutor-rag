@@ -1,0 +1,46 @@
+Andrée Otte
+Distinguer le groupe sujet et le groupe du verbe
+GS
+Рара
+GS
+Les parents
+GV
+joue avec son fils.
+GS
+Toute la famille
+Papa joue avec son fils.
+Les parents promènent leur bébé.
+GV
+promènent leur bébé.
+GV
+Toute la famille déguste le repas de maman.
+déguste le repas de maman.
+GS: signifie «< groupe sujet » Il représente celui ou ceux de qui on parle.
+GV: signifie «< groupe verbal ou groupe du verbe » C'est ce qu'on en dit.Un bon truc...
+Nancy arrive devant la vitrine d'un magasin de jouets.
+GS
+GV
+C'est Nancy qui arrive devant la vitrine d'un magasin de jouets.
+Observe encore...
+La grenouille mange des insectes.
+Elle les attrape avec sa langue.
+Ce batracien se déplace par bonds.
+GS
+GV
+C'est la grenouille qui mange des insectes.
+GS
+GV
+C'est elle qui les attrape avec sa langue.
+GS
+GV
+C'est ce batracien qui se déplace par bonds.
+Attention!
+Lorsque le GS est au pluriel, on écrit ...
+Les écureuils ramassent les glands.
+GS
+GV
+Ce sont les écureuils qui ramassent les glands.
+Les enfants jouent dans la cour de récréation.
+GS
+GV
+Ce sont les enfants qui jouent dans la cour de récréation.

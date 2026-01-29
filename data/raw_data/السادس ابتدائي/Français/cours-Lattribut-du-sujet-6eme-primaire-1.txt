@@ -1,0 +1,43 @@
+Exemple:
+L'attribut du sujet
+La tenue de l'hôtesse de l'air est (bleu)
+A quel mot de la phrase se rapporte l'adjectif << bleu » ?
+Quelle est la fonction grammaticale de ce mot?
+Quelle sera alors la terminaison de l'adjectif ?
+Donc : Sa tenue est.
+Comme l'adjectif << bleu » exprime un attribut du sujet de la phrase,
+on appelle l'adjectif ici « attribut du sujet >>
+<< Bleu » est un adjectif qualificatif.
+L'adjectif qualificatif s'accorde en genre et en nombre avec le nom
+qu'il détermine.
+Reconnaître l'attribut
+L'attribut exprime une qualité, une manière d'être, etc. qui se rapporte au sujet.Marie est infirmière.
+<< infirmière » est attribut du sujet Marie.
+L'attribut du sujet est rattaché au sujet par un verbe d'état tel que
+-être, demeurer, sembler, paraître, rester, devenir, avoir l'air
+Ce maçon a l'air courageux.
+Le pompier semble inquiet.Le détective paraît surpris!
+Mon dentiste devient nerveux.
+Nature de l'attribut
+L'attribut peut être :
+- un nom : Son fille est dentiste.
+-un adjectif : Son gendre est petit.
+- un pronom : Ce crayon est celui que j'avais perdu.
+- un adverbe : Le site de Phifix est très bien.
+-un infinitif : Cette voiture est à vendre.
+- une proposition: Son idée est qu'il faut poursuivre.Exercice
+Après la tempête, la température resta (frais).
+Ma soeur a l'air (malheureux). Ma soeur semble (malheureux).
+Les élèves paraissent (accablé).
+La directrice devint (blanc) de peur.
+Nos enfants sont très bien (élevé).
+Elle resta (cloué) sur place.
+L'attente nous sembla très (long).
+Voilà une affaire qui m'a l'air mal (parti).
+Vous trouviez les pâtes trop (chaud), maintenant elles sont (froid).
+Etes-vous (distrait)?
+Correction
+-fraîche -malheureuse
+-
+malheureuse - accablés blanche élevés - clouée
+longue-partie-chaudes-froides - distraits

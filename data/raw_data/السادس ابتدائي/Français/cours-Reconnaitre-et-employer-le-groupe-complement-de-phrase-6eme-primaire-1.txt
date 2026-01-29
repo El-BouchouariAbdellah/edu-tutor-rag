@@ -1,0 +1,40 @@
+Reconnaître et employer le groupe complément de phrase
+Andrée Otte
+Dans une heure, nous jouerons
+GCP
+S
+V
+Si on supprime le GCP, il reste : Nous jouerons.
+Cette phrase a du sens : elle est correcte.
+Je peux déplacer le GCP : Nous jouerons dans une heure.
+Cette phrase est correcte: elle a un sens.
+Je ne peux pas remplacer le GCP par un pronom : Nous jouerons (le ? en ? y?)
+Nous le jouerons.
+Cette phrase est correcte, mais n'a plus le même sens.
+Nous en jouerons.
+Cette phrase est correcte, mais n'a plus le même sens.
+Nous y jouerons.
+Cette phrase est correcte, mais n'a plus le même sens.
+Le groupe complément de phrase est mobile.
+Tu ne peux pas le remplacer par un pronom.Distinguer les nuances des groupes «< complément de phrase >>
+Le groupe complément de LIEU (où se passe l'action)
+Les enfants s'amusent à la fête.
+au bord du ruisseau.
+dans la cour.
+sur le lac.
+dans le jardin
+à la campagne
+en Angleterre
+sous le parasol
+au restaurant
+Le groupe complément de TEMPS (quand se passe l'action)
+Tu dresseras la table dès que papa rentrera.
+avant le diner.
+après le départ de mamy.
+à huit heures trente.Le groupe complément de MANIERE (comment, de quelle manière se passe l'action)
+En classe, on écoute attentivement la leçon.
+Tous les oiseaux se sont sauvés serrés les uns contre les autres.
+Tous les oiseaux se sont sauvés en poussant des cris.
+Tous les oiseaux se sont sauvés en s'envolant rapidement.
+en criant
+sagement
